@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore system/user files
 .vscode/
 .viminfo
@@ -10,6 +11,10 @@ OneDriveTemp/
 
 # =============== #
 # Unity generated #
+=======
+# =============== #
+# Unity Generated #
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754
 # =============== #
 
 [Ll]ibrary/
@@ -18,10 +23,21 @@ OneDriveTemp/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+<<<<<<< HEAD
 [Mm]emoryCaptures/
 UserSettings/
 
 # Visual Studio / Rider
+=======
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# ============ #
+# Visual Studio #
+# ============ #
+.vs/
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754
 *.csproj
 *.unityproj
 *.sln
@@ -37,6 +53,7 @@ UserSettings/
 *.opendb
 *.VC.db
 
+<<<<<<< HEAD
 # Crash and build reports
 sysinfo.txt
 *.stacktrace
@@ -45,3 +62,20 @@ sysinfo.txt
 *.DotSettings.user
 
 
+=======
+# ======= #
+# Package #
+# ======= #
+*.unitypackage
+
+# ========== #
+# Other Misc #
+# ========== #
+sysinfo.txt
+*.apk
+*.aab
+*.ipa
+
+# Crashlytics
+crashlytics-build.properties
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754

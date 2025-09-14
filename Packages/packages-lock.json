@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.animation": {
       "version": "10.2.1",
       "depth": 1,
@@ -89,6 +90,14 @@
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.modules.tilemap": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
+=======
+    "com.unity.ai.navigation": {
+      "version": "2.0.8",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754
       },
       "url": "https://packages.unity.com"
     },
@@ -103,7 +112,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "2.9.3",
+=======
+      "version": "2.9.2",
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -127,6 +140,7 @@
       "source": "builtin",
       "dependencies": {}
     },
+<<<<<<< HEAD
     "com.unity.feature.2d": {
       "version": "2.0.1",
       "depth": 0,
@@ -142,6 +156,8 @@
         "com.unity.2d.aseprite": "1.1.10"
       }
     },
+=======
+>>>>>>> 4a61dee5e47afb69ed9e5002585ee81782543754
     "com.unity.ide.rider": {
       "version": "3.0.36",
       "depth": 0,
